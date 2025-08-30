@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-huggingface
+huggingface-hub
+faiss-cpu
+gradio
+pypdf
+sentence-transformers
